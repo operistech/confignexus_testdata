@@ -1,0 +1,5 @@
+regex_patterns:
+  - name: "Pattern1"
+    regex: "^(?P<Datacenter>[a-z]{3})(?P<Function>[a-z]+)(?P<Instance>\\d+)\\.mgt\\.dev\\.example\\.com$"
+  - name: "Pattern2"
+    regex: "^(?P<Function>[a-z]+)(?P<Instance>\\d+)\\.(?P<Datacenter>[a-z]{3})\\.example\\.com$"
