@@ -1,0 +1,5 @@
+---
+datacenter: {{Datacenter}}
+function: {{Function}}
+instance: {{Instance}}
+ldap: {{Datacenter}}ldap1.mgt.prod.example.com
