@@ -1,0 +1,9 @@
+---
+ip_address: 192.168.0.5
+ports:
+  - 8098
+  - 8099
+features:
+  firewall: true
+  vpn: true
+environment: production

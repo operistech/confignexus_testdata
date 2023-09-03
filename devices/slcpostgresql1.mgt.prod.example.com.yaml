@@ -1,2 +1,10 @@
 ---
+ip_address: 192.168.0.7
+ports:
+  - 8102
+  - 8103
+features:
+  firewall: true
+  vpn: false
+environment: staging
 owner: "superappteam"

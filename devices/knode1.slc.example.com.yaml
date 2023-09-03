@@ -1,0 +1,9 @@
+---
+ip_address: 192.168.0.2
+ports:
+  - 8082
+  - 8083
+features:
+  firewall: true
+  vpn: true
+environment: staging

@@ -1,0 +1,9 @@
+---
+ip_address: 192.168.0.6
+ports:
+  - 8100
+  - 8101
+features:
+  firewall: false
+  vpn: true
+environment: development

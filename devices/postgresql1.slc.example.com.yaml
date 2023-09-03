@@ -1,0 +1,9 @@
+---
+ip_address: 192.168.0.4
+ports:
+  - 8096
+  - 8097
+features:
+  firewall: false
+  vpn: false
+environment: staging

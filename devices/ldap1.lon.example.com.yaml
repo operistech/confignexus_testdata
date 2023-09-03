@@ -1,0 +1,8 @@
+---
+ports:
+  - 8086
+  - 8087
+features:
+  firewall: true
+  vpn: false
+environment: production
